@@ -1,0 +1,123 @@
+{
+    "data":{
+"recommend": [
+        
+        {
+            "id": "1",
+            "name": "明星商品低至69元",
+            "price": 7,
+            "imgUrl": "https://yanxuan.nosdn.127.net/71a5f1a0299e278f8193c193d8b7d1e4.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+            "id": "2",
+            "name": "员工精选好货低至15",
+            "price": 7,
+            "imgUrl": "https://yanxuan.nosdn.127.net/c117ea2f1c4d978eb1f310d6d9ec3226.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+            "id": "3",
+            "name": "999+好评",
+            "price": 7,
+            "imgUrl": "https://yanxuan.nosdn.127.net/cda4a56526a230055bea8221a6b7ab11.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+            "id": "4",
+            "name": "吃货节美食特惠2件88折",
+            "price": 7,
+            "imgUrl": "https://yanxuan.nosdn.127.net/05c1e7046db5cf084468c1aa03a09ecf.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+            "id": "5",
+            "name": "秋冬服配特惠低至5折",
+            "price": 7,
+            "imgUrl": "https://yanxuan.nosdn.127.net/8de127af5059d60d59b59f87aa26dbd4.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+            "id": "6",
+            "name": "断货补单王39元起",
+            "price": 7,
+            "imgUrl": "https://yanxuan.nosdn.127.net/da5ac697d47e43bd6ad9ce8b1e5e0060.png?imageView&quality=85&thumbnail=144x144"
+        },
+        {
+            "id": "7",
+            "name": "999+好评",
+            "price": 7,
+            "imgUrl": "https://yanxuan.nosdn.127.net/c44b1387ca5cc0617bed7585b255c65b.png?imageView&quality=85&thumbnail=144x144"
+        }
+    ],
+
+    "season": [ {
+        "id": "1",
+        "name": "秋冬床品",
+        "price": 7,
+        "imgUrl": "https://yanxuan.nosdn.127.net/15a0f224de139e533a01d61dade82f5f.png?imageView&quality=85&thumbnail=144x144"
+    },
+    {
+        "id": "1",
+        "name": "滋补美食",
+        "price": 7,
+        "imgUrl": "https://yanxuan.nosdn.127.net/47aa073ed447c2feabe1a7fbb02b963d.png?imageView&quality=85&thumbnail=144x144"
+    },
+    {
+        "id": "1",
+        "name": "换季扫除",
+        "price": 7,
+        "imgUrl": "https://yanxuan.nosdn.127.net/34c35d065e99375355d63e580a58d1fd.png?imageView&quality=85&thumbnail=144x144"
+    },
+    {
+        "id": "1",
+        "name": "秋冬服配新品",
+        "price": 7,
+        "imgUrl": "https://yanxuan.nosdn.127.net/160274883e15e024802d25832f0e7ed1.png?imageView&quality=85&thumbnail=144x144"
+    },
+    {
+        "id": "1",
+        "name": "户外出行",
+        "price": 7,
+        "imgUrl": "https://yanxuan.nosdn.127.net/da5ac697d47e43bd6ad9ce8b1e5e0060.png?imageView&quality=85&thumbnail=144x144"
+    },
+    {
+        "id": "1",
+        "name": "干季护肤",
+        "price": 7,
+        "imgUrl": "https://yanxuan.nosdn.127.net/c44b1387ca5cc0617bed7585b255c65b.png?imageView&quality=85&thumbnail=144x144"
+    },
+    {
+        "id": "1",
+        "name": "秋日养生",
+        "price": 7,
+        "imgUrl": "https://yanxuan.nosdn.127.net/c44b1387ca5cc0617bed7585b255c65b.png?imageView&quality=85&thumbnail=144x144"
+    },
+    {
+        "id": "1",
+        "name": "秋日养生",
+        "price": 7,
+        "imgUrl": "https://yanxuan.nosdn.127.net/c44b1387ca5cc0617bed7585b255c65b.png?imageView&quality=85&thumbnail=144x144"
+    }
+    ],
+
+
+    "productList3": [
+        {
+            "id": "1",
+            "name": "可口可乐",
+            "price": 7,
+            "imgUrl": "../image/coco.jpg"
+        },
+        {
+            "id": "1",
+            "name": "可口可乐",
+            "price": 7,
+            "imgUrl": "../image/coco.jpg"
+        },
+        {
+            "id": "1",
+            "name": "可口可乐",
+            "price": 7,
+            "imgUrl": "../image/coco.jpg"
+        }
+    ]
+    }
+    
+
+}
